@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Narmin Tomarova
 
 🎓 Software Engineer | 💻 .NET Backend Developer | ☁️ Cloud Enthusiast  
-🔗 [LinkedIn](https://www.linkedin.com/in/narmintomarova/) | 📧 tmrva621@gmail.com | 📱 +994 55 413 82 26
+🔗 [LinkedIn](https://www.linkedin.com/in/narmintomarova/) | 📧 tmrva621@gmail.com
 
 ---
 
@@ -37,33 +37,6 @@ With a strong foundation in cloud-native architecture, CI/CD, and DevOps tools, 
 ![DevOps](https://img.shields.io/badge/DevOps-blue?style=flat-square)  
 ![IaC](https://img.shields.io/badge/Infrastructure_as_Code-11A861?style=flat-square)  
 ![TDD](https://img.shields.io/badge/TDD-CC0000?style=flat-square)
-
----
-
-## 📁 Projects
-
-- 🏢 **Apartment Management System (MVP)**  
-  API-based backend built with ASP.NET Core, integrated with Azure SQL, improved resident management and communication flow.
-
-- 🛋️ **E-Commerce Furniture Store**  
-  ASP.NET MVC full-stack app with Stripe payments, dynamic shopping cart, admin panel, and responsive frontend.
-
----
-
-## 🎓 Education
-
-- **BSc in Information Technologies**  
-  *Azerbaijan Architecture & Construction University* (2022–2026)
-
-- **C# Backend Programming** – ITBrains Academy  
-- **.NET Backend Development** – Baku Design Academy  
-- **DevOps & Cloud (IBM, Oracle, StrategEast)** – 4IR Academy, Digital Azerbaijan Talent School (2024–2025)
-
----
-
-## 🌐 Languages
-
-Azerbaijani (native) | Turkish (native) | English (fluent) | German (beginner) | French (beginner)
 
 ---
 
