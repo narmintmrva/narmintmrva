@@ -3,7 +3,12 @@
 <p align="center">
 🎓 Software Engineer | 💻 .NET Backend Developer | ☁️ Cloud Enthusiast  
 <br/>
-🔗 <a href="https://www.linkedin.com/in/narmintomarova/">LinkedIn</a> | 📧 tmrva621@gmail.com
+</p>
+
+<p align="center">🔗 <a href="https://www.linkedin.com/in/narmintomarova/">LinkedIn</a> | 📧 tmrva621@gmail.com</p>
+
+<p align="center">
+📁 <a href="https://drive.google.com/drive/folders/1tZIvSHw2z22c9DgtccEBK2V6nejxp51g?usp=sharing">View all certifications on Google Drive</a>
 </p>
 
 ---
@@ -45,14 +50,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
   </a>
 </p>
+  
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=narmintmrva&show_icons=true&locale=en&layout=compact" alt="narmintmrva" /></p>
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=narmintomarova&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narmintomarova&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-📁 <a href="https://drive.google.com/drive/folders/1tZIvSHw2z22c9DgtccEBK2V6nejxp51g?usp=sharing">View all certifications on Google Drive</a>
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=narmintmrva&show_icons=true&locale=en" alt="narmintmrva" /></p> -->
