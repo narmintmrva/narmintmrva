@@ -1,16 +1,6 @@
 # 👋 Hi, I'm Narmin Tomarova
 
-🎓 Software Engineer | 💻 .NET Backend Developer | ☁️ Cloud Enthusiast  
-🔗 [LinkedIn](https://www.linkedin.com/in/narmintomarova/) | 📧 tmrva621@gmail.com
-
----
-
-## 🧠 About Me
-
-I’m a passionate .NET Backend Developer with hands-on experience in building scalable and maintainable systems using **C#**, **ASP.NET Core**, **Entity Framework**, and **Microsoft Azure**.  
-With a strong foundation in cloud-native architecture, CI/CD, and DevOps tools, I aim to deliver high-quality, clean code and efficient backend solutions.
-
----
+🎓 Software Engineer | 💻 .NET Backend Developer | ☁️ Cloud Enthusiast  | 🔗 [LinkedIn](https://www.linkedin.com/in/narmintomarova/) | 📧 tmrva621@gmail.com
 
 ## 🚀 Tech Stack
 
@@ -38,18 +28,11 @@ With a strong foundation in cloud-native architecture, CI/CD, and DevOps tools, 
 ![IaC](https://img.shields.io/badge/Infrastructure_as_Code-11A861?style=flat-square)  
 ![TDD](https://img.shields.io/badge/TDD-CC0000?style=flat-square)
 
----
-
 ## 📊 GitHub Stats
 
 ![Narmin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=narmintomarova&show_icons=true&theme=github_dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narmintomarova&layout=compact&theme=github_dark)
 
----
-
 ## 🏅 Certifications
 
 📁 [View all certifications on Google Drive](https://drive.google.com/drive/folders/1tZIvSHw2z22c9DgtccEBK2V6nejxp51g?usp=sharing)
-
----
-
